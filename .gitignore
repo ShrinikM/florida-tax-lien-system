@@ -1,0 +1,12 @@
+# Ignore the Virtual Environment (too big)
+venv/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore Sensitive Data (Security!)
+src/db_config.py
+
+# Optional: Ignore raw data if you want to keep the repo clean
+# data/
