@@ -1,7 +1,7 @@
 DB_SETTINGS = {
     "dbname": "tax_liens",  
     "user": "postgres",
-    "password": "smadise2",
+    "password": "password",
     "host": "localhost",
     "port": "5432"
 }
